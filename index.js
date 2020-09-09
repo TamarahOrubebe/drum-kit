@@ -71,3 +71,4 @@ function buttonAnimation(currentKey) {
         activeKey.classList.remove("pressed");
     }, 100);
 }
+
